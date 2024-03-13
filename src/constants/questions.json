@@ -258,6 +258,37 @@
         { "text": "Sandro Botticelli", "isCorrect": false },
         { "text": "Raphael", "isCorrect": false }
       ]
+    },
+
+    {
+      "question": "Who discover the gravitation?",
+      "answerOptions": [
+        { "text": "Michelangelo", "isCorrect": false },
+        { "text": "Newton", "isCorrect": true },
+        { "text": "Sandro Botticelli", "isCorrect": false },
+        { "text": "Raphael", "isCorrect": false }
+      ]
+    },
+
+    {
+      "question": "What is the Indias national game?",
+      "answerOptions": [
+        { "text": "Cricket", "isCorrect": false },
+        { "text": "Hockey", "isCorrect": true },
+        { "text": "Football", "isCorrect": false },
+        { "text": "Badminton", "isCorrect": false }
+      ]
+    },
+
+    {
+      "question": "What is the Indias national animal?",
+      "answerOptions": [
+        { "text": "Dog", "isCorrect": false },
+        { "text": "Elephant", "isCorrect": false },
+        { "text": "Lion", "isCorrect": false },
+        { "text": "Tiger", "isCorrect": true }
+      ]
     }
+    
   ]
   
