@@ -1,0 +1,263 @@
+[
+    {
+      "question": "What is the capital of India?",
+      "answerOptions": [
+        { "text": "Pune", "isCorrect": false },
+        { "text": "Mumbai", "isCorrect": false },
+        { "text": "Delhi", "isCorrect": true },
+        { "text": "Lucknow", "isCorrect": false }
+      ]
+    },
+  
+    {
+      "question": "Which of the given cities is located on the bank of river Ganga?",
+      "answerOptions": [
+        { "text": "Patna", "isCorrect": true },
+        { "text": "Gwalior", "isCorrect": false },
+        { "text": "Bhopal", "isCorrect": false },
+        { "text": "Mathura", "isCorrect": false }
+      ]
+    },
+  
+    {
+      "question": "The driving force of an ecosystem is",
+      "answerOptions": [
+        { "text": "Cancer", "isCorrect": false },
+        { "text": "Typhoid", "isCorrect": false },
+        { "text": "Kala-azar", "isCorrect": true },
+        { "text": "Chicken Pox", "isCorrect": false }
+      ]
+    },
+  
+    {
+      "question": "What is Nagpur famous for?",
+      "answerOptions": [
+        { "text": "Mango", "isCorrect": false },
+        { "text": "Banana", "isCorrect": false },
+        { "text": "orange", "isCorrect": true },
+        { "text": "Apple", "isCorrect": false }
+      ]
+    },
+  
+    {
+      "question": "Name the smallest perfect number?",
+      "answerOptions": [
+        { "text": 6, "isCorrect": true },
+        { "text": 0, "isCorrect": false },
+        { "text": 4, "isCorrect": false },
+        { "text": 1, "isCorrect": false }
+      ]
+    },
+  
+    {
+      "question": "What is the capital of Maharashtra?",
+      "answerOptions": [
+        { "text": "Pune", "isCorrect": false },
+        { "text": "Mumbai", "isCorrect": true },
+        { "text": "Delhi", "isCorrect": false },
+        { "text": "Lucknow", "isCorrect": false }
+      ]
+    },
+  
+    {
+      "question": "The smallest state of India is?",
+      "answerOptions": [
+        { "text": "AP", "isCorrect": false },
+        { "text": "MH", "isCorrect": false },
+        { "text": "Goa", "isCorrect": true },
+        { "text": "UP", "isCorrect": false }
+      ]
+    },
+  
+    {
+      "question": " Which river is the longest in the world?",
+      "answerOptions": [
+        { "text": "Fense", "isCorrect": false },
+        { "text": "Jamuna", "isCorrect": false },
+        { "text": "Ganga", "isCorrect": false },
+        { "text": "Nile", "isCorrect": true }
+      ]
+    },
+  
+    {
+      "question": " What is the hardest bone in the human body?",
+      "answerOptions": [
+        { "text": "Tibia Fabulae", "isCorrect": false },
+        { "text": "Radius ulna", "isCorrect": false },
+        { "text": "Femur", "isCorrect": true },
+        { "text": "stapes", "isCorrect": false }
+      ]
+    },
+  
+    {
+      "question": "How many bones in human body?",
+      "answerOptions": [
+        { "text": "205", "isCorrect": false },
+        { "text": "206", "isCorrect": true },
+        { "text": "207", "isCorrect": false },
+        { "text": "208", "isCorrect": false }
+      ]
+    },
+  
+    {
+      "question": " What is the smallest bone in the human body?",
+      "answerOptions": [
+        { "text": "Tibia Fabulae", "isCorrect": false },
+        { "text": "Radius ulna", "isCorrect": false },
+        { "text": "Femur", "isCorrect": false },
+        { "text": "stapes", "isCorrect": true }
+      ]
+    },
+  
+    {
+      "question": "What is the capital of Tamilnadu?",
+      "answerOptions": [
+        { "text": "Chennai", "isCorrect": true },
+        { "text": "Mumbai", "isCorrect": false },
+        { "text": "Delhi", "isCorrect": false },
+        { "text": "Lucknow", "isCorrect": false }
+      ]
+    },
+  
+    {
+      "question": " Who is the current Prime Minister of India?",
+      "answerOptions": [
+        { "text": "Nitin Gadkari", "isCorrect": false },
+        { "text": "Rahul Gandhi", "isCorrect": false },
+        { "text": "Narendra Modi", "isCorrect": true },
+        { "text": "Amit Shaha", "isCorrect": false }
+      ]
+    },
+  
+    {
+      "question": "What is the capital of China?",
+      "answerOptions": [
+        { "text": "Tokyo", "isCorrect": false },
+        { "text": "Newyork", "isCorrect": false },
+        { "text": "Delhi", "isCorrect": false },
+        { "text": "Beijing", "isCorrect": true }
+      ]
+    },
+  
+    {
+      "question": " What is the chemical symbol for water?",
+      "answerOptions": [
+        { "text": "C2H5", "isCorrect": false },
+        { "text": "H2SO4", "isCorrect": false },
+        { "text": "H2O", "isCorrect": true },
+        { "text": "HCL", "isCorrect": false }
+      ]
+    },
+  
+    {
+      "question": "What is the currency of the United Kingdom?",
+      "answerOptions": [
+        { "text": "Rupees", "isCorrect": false },
+        { "text": "Dollar", "isCorrect": false },
+        { "text": "Pound", "isCorrect": true },
+        { "text": "Yen", "isCorrect": false }
+      ]
+    },
+  
+    {
+      "question": "What is the tallest mountain in the world?",
+      "answerOptions": [
+        { "text": "Mount Everest", "isCorrect": true },
+        { "text": "Kalsubai", "isCorrect": false },
+        { "text": "Sahyadri", "isCorrect": false },
+        { "text": "Satpuda", "isCorrect": false }
+      ]
+    },
+  
+    {
+      "question": "What is the largest planet in our solar system?",
+      "answerOptions": [
+        { "text": "Saturn", "isCorrect": false },
+        { "text": "Mars", "isCorrect": false },
+        { "text": "Earth", "isCorrect": false },
+        { "text": "Jupiter", "isCorrect": true }
+      ]
+    },
+    {
+      "question": "What is the tallest mountain in the world?",
+      "answerOptions": [
+        { "text": "Mount Everest", "isCorrect": true },
+        { "text": "K2", "isCorrect": false },
+        { "text": "Kangchenjunga", "isCorrect": false },
+        { "text": "Lhotse", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "Which country is home to the Great Wall of China?",
+      "answerOptions": [
+        { "text": "China", "isCorrect": true },
+        { "text": "Japan", "isCorrect": false },
+        { "text": "Korea", "isCorrect": false },
+        { "text": "India", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "What is the capital of France?",
+      "answerOptions": [
+        { "text": "London", "isCorrect": false },
+        { "text": "Berlin", "isCorrect": false },
+        { "text": "Paris", "isCorrect": true },
+        { "text": "Rome", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "What is the chemical formula for water?",
+      "answerOptions": [
+        { "text": "H2O", "isCorrect": true },
+        { "text": "CO2", "isCorrect": false },
+        { "text": "NaCl", "isCorrect": false },
+        { "text": "NH3", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "What is the largest ocean on Earth?",
+      "answerOptions": [
+        { "text": "Atlantic Ocean", "isCorrect": false },
+        { "text": "Pacific Ocean", "isCorrect": true },
+        { "text": "Indian Ocean", "isCorrect": false },
+        { "text": "Arctic Ocean", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "What is the most popular social media platform?",
+      "answerOptions": [
+        { "text": "Instagram", "isCorrect": true },
+        { "text": "Facebook", "isCorrect": false },
+        { "text": "Twitter", "isCorrect": false },
+        { "text": "YouTube", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "What is the currency of Japan?",
+      "answerOptions": [
+        { "text": "Euro", "isCorrect": false },
+        { "text": "US Dollar", "isCorrect": false },
+        { "text": "Japanese Yen", "isCorrect": true },
+        { "text": "Chinese Yuan", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "What is the world's largest search engine?",
+      "answerOptions": [
+        { "text": "Google", "isCorrect": true },
+        { "text": "Bing", "isCorrect": false },
+        { "text": "Yahoo", "isCorrect": false },
+        { "text": "DuckDuckGo", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "Who painted the Mona Lisa?",
+      "answerOptions": [
+        { "text": "Michelangelo", "isCorrect": false },
+        { "text": "Leonardo da Vinci", "isCorrect": true },
+        { "text": "Sandro Botticelli", "isCorrect": false },
+        { "text": "Raphael", "isCorrect": false }
+      ]
+    }
+  ]
+  
